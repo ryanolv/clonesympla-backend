@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Arthur Oliveira",
+      "email": "aoliveira@cod3r.com.br"
+    },
+    {
+      "id": 2,
+      "name": "Maria Julia da Silva",
+      "email": "mjds@empresa.com"
+    },
+    {
+      "name": "ryan oliveira",
+      "email": "ry@email.com",
+      "event": "",
+      "id": 3
+    },
+    {
+      "name": "Antonio Camilp",
+      "email": "camilo@gmail.com",
+      "event": "Palestra sobre IA",
+      "description": "",
+      "date": "2022-06-05",
+      "category": "",
+      "id": 5
+    }
+  ]
+}
